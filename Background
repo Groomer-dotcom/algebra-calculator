@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+
+<style>
+    h1 {font-family: Poppins;}
+    h1 {color: #E5ECE9 }
+    h1 {text-align: center;}
+    h1{font-size: 200px;}
+
+    @keyframes example {
+        0% {color: #2B3D41 ;}
+        25% {color: #4C5F6B;}
+        50% {color: #8C1C13;}
+        100% {color: #A40606;}
+    }
+
+    h1 {
+        color: #E5ECE9;
+        animation-name: example;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+    }
+</style>
+
+<style>
+    p1 {font-size: 50px;}
+    p1 {font-family: Arial;}
+    p1 {text-align: justify;}
+</style>
+</head>
+    <body>
+        <h1> Welcome Loser </h1>
+        <div></div>
+        
+        <p1> A demostration for a basic algebraic calculator </p1>
+    </body>
+</html>
